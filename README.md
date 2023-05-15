@@ -1,1 +1,12 @@
-# Product-Recommendation
+# Product Recommendation Pipeline via Real-Time Analysis
+# Motivation
+As a relative neophyte to tech, I made it a point to engage and participate in projects that intrigue me but take me out of my comfort zone. The intersection of Data Science and Consumer Sentiment was exactly the type of undertaking that I was looking for. The project had all the components that I felt was necessary for me to upskill, learn, as well as feed my curiosity. 
+# Summation
+I created a data pipeline that leveraged Kafka in order to model a Broker-Producer-Consumer approach to consumer data pipelining. Choosing the data set, sanitizing the data, and reading up on the appropriate methods and approaches was challenging but enthralling as well. I was able to create methods that ranked products based on the given features and output these rankings. I also learned about precision techniques to filter out products and assign them rankings. Some of the key components of the deliverable include: the production of individual rows from a data frame continuously, recommendation of items in a dynamic fashion, and a considerations for situations such as empty queues and increased user activity. WIth the help of Leon Staubach, my project leader, I was able to persevere and implement industry-tested methods and libraries that will help me improve as a developer. The key cog in this project was the support, patience, and guidance of Leon. And although there is a lot for me to improve on, I intend to continue working on this project through the summer of 2023. 
+# Next Steps
+The next steps is to improve as a developer, and work on building sound logic that would make for a safer, more efficient and robust data pipelining system. I intend to work on this project on a steady basis throughout the summer of 2023 and I intend to add features related to Kafka, as well as more accurate precision metrics to abstract away generalizations from the product recommendations that are outputted. 
+# Learnings
+I learned a lot about myself, this includes my strengths and shortcomings. I also learned about the precision needed to implement an accurate real-time analysis of product recommendations. Leaning on your managers or colleagues is also essential. I will also iterate through the words of wisdom that Leon shared which helped me put a lot of the approaches to deep technical learning in a proper persepective. Ultimately, I would like to improve my Python, Data Science, and Machine Learning skills in order to gain the skills necessary to apply the programmatic logic that is necessary to make an impact in tech. 
+
+# References
+https://www.kaggle.com/datasets/mkechinov/ecommerce-purchase-history-from-electronics-store
