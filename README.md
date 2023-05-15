@@ -10,3 +10,5 @@ I learned a lot about myself, this includes my strengths and shortcomings. I als
 
 # References
 https://www.kaggle.com/datasets/mkechinov/ecommerce-purchase-history-from-electronics-store
+
+*Note*: Dataset used in this project titled _kz.csv_ can be found in this resource. There is also a link to the Google Colab project in this repo. 
